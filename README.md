@@ -1,4 +1,4 @@
-# TP : Analyse et Suppression des Valeurs Aberrantes
+# Analyse et Suppression des Valeurs Aberrantes
 
 Ce TP a pour objectif de vous apprendre à détecter, analyser et supprimer les **valeurs aberrantes (outliers)** dans un jeu de données réel, et d’en observer l’impact sur un modèle de régression linéaire.
 
